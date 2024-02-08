@@ -1,0 +1,28 @@
+
+{
+    "name": "Allinonebot",
+    "description": "ALLINONEBOT",
+    "repository": "https://github.com/kd2929/rasi-extract-",
+    "keywords": [
+        "telegram bot",
+        "pyrogram"
+    ],
+    "env": {
+            "API_ID": {
+            "description": "Your API_ID from https://my.telegram.org/apps",
+            "value": "23321997",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from https://my.telegram.org/apps",       
+            "value": "3c0378a72f84d4dfe7d701bba5f3bbaa",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot token from @Botfather",
+            "value": "6147806383:AAET9lLN9Xa6kYgsdvqYxWgrlMbT64RrvBw",
+            "required": true
+        }
+    }
+
+}
